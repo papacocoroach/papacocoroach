@@ -23,11 +23,10 @@
 
 - ### <a name="testcases">TEST CASES example</a>
 
-  *Test environment:* <a href="https://scouts.futbolkolektyw.pl/" target="_blank"> - web application</a>
+  *Test environment:* <a href="https://www.asos.com/" target="_blank"> - ASOS web application</a>
 
-  :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/1tIGeHfqwgSP1iM9ihQ3Z-YdhWcP5EOYLRanQKBu2Bmw/edit?usp=sharing" target="_blank"><b>Test cases based on the User Story</b></a>
+  :arrow_forward: <a href="https://drive.google.com/drive/folders/1qjCFFY0B9Khv8Ipx9DklOvNqFlcY97mG?usp=sharing" target="_blank"><b>Registration page Test Cases</b></a>
 
-  :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/19denA5bKYnGvGJsy86dM3P5xHk01XWrpxlWxbD1njQY/edit?usp=sharing" target="_blank"><b>Test cases based on explorary testing</b></a>
 
 
 
