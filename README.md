@@ -8,8 +8,7 @@
 :white_circle: [TEST CASES example](#testcases) 
 :white_circle: [BUG REPORT example (UTest)](#bugreport) 
 :white_circle: [JIRA - BUG REPORT example](#jira) 
-:white_circle: [SQL tasks](#sql) 
-:white_circle: [COURSES](#courses) 
+:white_circle: [Postman API testing example](#postman)  
 :white_circle: [TOOLS](#tools) 
 :white_circle: [TECH SKILLS](#techskills) 
 :white_circle: [SOFT SKILLS](#softskills)  
@@ -39,3 +38,15 @@
   *Test environment:* <a href="https://www.dillards.com/" target="_blank">Dillards - mobile app</a>
   
   :arrow_forward: <a href="https://drive.google.com/file/d/1uZOuM6PGNGekrEztOulU9POSrdD7UUee/view?usp=drive_link" target="_blank"><b>Bug report - mobile app testing</b></a>
+
+
+
+  
+- ### <a name="postman">Postman API testing example</a>
+
+  *Test environment:* <a href="https://restful-booker.herokuapp.com" target="_blank">API playground</a>
+
+  :arrow_forward: <a href="https://drive.google.com/drive/folders/1KcPG-A5kzKZpqYnqaguQT3f_ke9xLqg-?usp=drive_link" target="_blank"><b>JSON files for collection and environment</b></a>
+  
+  
+  
