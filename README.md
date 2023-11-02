@@ -7,11 +7,10 @@
 :white_circle: [ABOUT ME](#aboutme) 
 :white_circle: [TEST CASES example](#testcases) 
 :white_circle: [BUG REPORT example (UTest)](#bugreport) 
-:white_circle: [JIRA - BUG REPORT example](#jira) 
 :white_circle: [Postman API testing example](#postman)  
 :white_circle: [TOOLS](#tools) 
-:white_circle: [TECH SKILLS](#techskills) 
-:white_circle: [SOFT SKILLS](#softskills)  
+:white_circle: [TECH SKILLS](#techskills)
+
 
 ## <a name="aboutme">:mag_right: ABOUT ME</a>
 
@@ -47,6 +46,30 @@
   *Test environment:* <a href="https://restful-booker.herokuapp.com" target="_blank">API playground</a>
 
   :arrow_forward: <a href="https://drive.google.com/drive/folders/1KcPG-A5kzKZpqYnqaguQT3f_ke9xLqg-?usp=sharing" target="_blank"><b>JSON files for collection and environment</b></a>
+
+
+
+  ## <a name="tools">TOOLS</a>
+
+- **MySQL** - a relational database management system that is based on structured query language (SQL)
+- **Jira** - a suite of agile work management solutions that powers collaboration across all teams from concept to customer
+- **GitHub** - a code hosting platform for version control and collaboration
+- **GIT** - a distributed version control system that tracks changes in any set of computer files
+- **Postman** - an API platform for building and using APIs.
+- **TestRail** - a test management tool used for Project Management, Bug Tracking, and Test Management
+
+
+## <a name="techskills">TECH SKILLS</a>
+
+- knowledge of **testing procedures** and the creation of **test documentation**
+- **DevTools** knowledge
+- **SQL** knowledge
+- **REST API testing**
+- **HTML/CSS** 
+- understanding of different delivery **methodologies** (e.g., agile, waterfall, v-model)
+- communicative **English**, **Russian**, basic **Polish**
+
+
   
   
   
