@@ -33,11 +33,11 @@
 
   *Test environment:* <a href="https://www.lg.com/pl" target="_blank">LG - web application</a>
 
-  :arrow_forward: <a href="https://drive.google.com/file/d/12xZuTt5cJAM6x2sMBxXiGdQQPpyXBe5J/view?usp=drive_link" target="_blank"><b>Bug report - web application testing</b></a>
+  :arrow_forward: <a href="https://drive.google.com/file/d/12xZuTt5cJAM6x2sMBxXiGdQQPpyXBe5J/view?usp=sharing" target="_blank"><b>Bug report - web application testing</b></a>
   
   *Test environment:* <a href="https://www.dillards.com/" target="_blank">Dillards - mobile app</a>
   
-  :arrow_forward: <a href="https://drive.google.com/file/d/1uZOuM6PGNGekrEztOulU9POSrdD7UUee/view?usp=drive_link" target="_blank"><b>Bug report - mobile app testing</b></a>
+  :arrow_forward: <a href="https://drive.google.com/file/d/1uZOuM6PGNGekrEztOulU9POSrdD7UUee/view?usp=sharing" target="_blank"><b>Bug report - mobile app testing</b></a>
 
 
 
@@ -46,7 +46,7 @@
 
   *Test environment:* <a href="https://restful-booker.herokuapp.com" target="_blank">API playground</a>
 
-  :arrow_forward: <a href="https://drive.google.com/drive/folders/1KcPG-A5kzKZpqYnqaguQT3f_ke9xLqg-?usp=drive_link" target="_blank"><b>JSON files for collection and environment</b></a>
+  :arrow_forward: <a href="https://drive.google.com/drive/folders/1KcPG-A5kzKZpqYnqaguQT3f_ke9xLqg-?usp=sharing" target="_blank"><b>JSON files for collection and environment</b></a>
   
   
   
